@@ -1,4 +1,4 @@
-name: CI/CD Tienda Perritos - DB
+name: CI/CD de Tienda Perritos - DB
 
 on:
   push:

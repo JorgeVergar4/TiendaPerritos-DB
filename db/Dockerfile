@@ -1,7 +1,7 @@
 # Imagen base MySQL 8 oficial
 FROM mysql:8
 
-#Testeo pipeline
+#Testeo pipelinee
 # Variables de entorno (se aplicarán automáticamente al iniciar el contenedor)
 ENV MYSQL_ROOT_PASSWORD=admin123
 ENV MYSQL_DATABASE=tienda_perritos
